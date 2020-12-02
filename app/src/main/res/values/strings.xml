@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CS411Project</string>
+    <string name="cs411_project">CS411 Project</string>
+    <string name="group_46_badwaterdb">Group 46: badWaterDB</string>
+    <string name="lol_esport_ngame_analysis">LOL ESport Game Analysis</string>
+    <string-array name="position_array">
+        <item>No Preference</item>
+        <item>Top</item>
+        <item>Middle</item>
+        <item>Jungle</item>
+        <item>Bottom</item>
+        <item>Support</item>
+    </string-array>
+
+</resources>
